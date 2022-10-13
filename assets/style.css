@@ -184,7 +184,10 @@ p{font-size:1em;line-height: 1.7em; margin-bottom: 1.7em;}
 	.footer .mapa{width: 0em; margin-left: 1.7em;}
 	.footer .icono{margin-left: 12em; margin-top: 3em;}
 	.spacer h3{ margin-right: 0em;}
-	
+	.boton{
+    width: 35px;
+    transition: ease 1s;
+}
 }
 
 /* Home Style */
@@ -254,7 +257,7 @@ h1 {
 }
 
 .boton{
-    width: 80px;
+    width: 40px;
     transition: ease 1s;
 }
 
